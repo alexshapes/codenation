@@ -1,0 +1,465 @@
+body {
+  
+    background-image: url("1624.png");
+    background-size: cover;
+    background-color: rgb(31, 9, 9);
+    color: rgb(255, 255, 255)0, 0, 0);
+    
+  }
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    width: auto;
+    margin: 20px;
+    padding: 20px;
+}
+
+.topmenu {
+  text-align: right;
+  width: auto;
+  margin: 20px;
+  padding: 4px 1px;
+  position: relative;
+  overflow: hidden;
+
+
+}
+li a:hover {
+  text-decoration: underline;
+}
+.logo {
+  float: left;
+  width:auto;
+  height: auto;
+  margin: 24px 25px;
+  text-align: left;
+}
+li a.active {
+  text-decoration: underline;
+}
+.para1{
+  background-color: lightgrey;
+  width: auto;
+  content: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.transparent {
+  margin: 150px;
+}
+.allweb {
+  background-color: rgba(31, 1, 1, 0.685);
+  background-image: url("abra1.png");
+  background-size: cover;
+  width: 1000px;
+  padding: 1px;
+  margin: auto;
+  border-style: dotted;
+  border: 2px solid rgb(92, 16, 16);
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  position: relative;
+  margin: auto;
+  width: auto;
+  padding: 0px;
+  overflow: hidden;
+  display:inline-block;
+  text-align: right;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: inline-block;
+  color: rgb(238, 226, 226);
+  text-align: right;
+  margin: 0px;
+  padding: 16px 7px;
+  text-decoration: none;
+  width: auto;
+}
+P { 
+  text-align: center;
+  color: rgb(255, 255, 255);
+  
+
+
+}
+H2 { text-align: center }
+
+.unit2 {
+  background-color: rgba(203, 77, 214, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+  font-size: 30px;
+  font-weight: bold;
+  
+}
+.unit7 {
+  background-color: rgba(203, 77, 214, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.unit8 {
+  background-color: rgba(230, 198, 21, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit9 {
+  background-color: rgba(87, 230, 21, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit10 {
+  background-color: rgba(21, 230, 220, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit11 {
+  background-color: rgba(171, 21, 230, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit12 {
+  background-color: rgba(21, 230, 73, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit13 {
+  background-color: rgba(190, 17, 133, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit14 {
+  background-color: rgba(21, 129, 230, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit15 {
+  background-color: rgba(98, 230, 21, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit100 {
+  background-color: rgba(177, 0, 15, 0.288);
+  padding: 1px;
+  margin: 20px;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  width: auto;
+  margin: 20px;
+  padding: 20px;
+
+}
+.unit17 {
+  background-color: rgba(230, 21, 220, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit11 {
+  background-color: rgba(171, 21, 230, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit18 {
+  background-color: rgba(21, 230, 185, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit19 {
+  background-color: rgba(171, 21, 230, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+
+.unit3 {
+  background-color: rgba(26, 204, 70, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit4 {
+  background-color: rgba(228, 22, 176, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+.unit5 {
+  background-color: rgba(22, 228, 228, 0.712);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 50px;
+  border-style: dotted;
+  border: 2px solid rgb(148, 21, 148);
+  border-radius: 5px;
+
+}
+
+
+.unit1 {
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+
+
+}
+.paragraph1{
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+}
+.paragraph2 {
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+
+}
+.paragraph3 {
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+}
+.paragraph4{
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 1px;
+  margin: 20px;
+}
+
+.paragraph5 {
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 10px;
+  margin: 20px;
+}
+.paragraph6 {
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 10px;
+  margin: 20px;
+}
+.paragraph7 {
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 10px;
+  margin: 20px;
+}
+.paragraph8{
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 10px;
+  margin: 20px;
+}
+.paragraph9{
+  background-color: rgba(177, 0, 15, 0.288);
+  width: auto;
+  content: 15px solid green;
+  padding: 10px;
+  margin: 20px;
+}
+.buttons {
+  text-align: center;
+  font-size: 10px;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  padding: 8px 8px;
+  margin: 10px;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  width: auto;
+  height: auto;
+  
+}
+.button1 {
+  background-image: url("menubutton2.png");
+  background-size: cover;
+  background-color: Transparent;
+  border: none;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+}
+.button2 {
+  background-image: url("menubutton2.png");
+  background-size: cover;
+  background-color: Transparent;
+  border: none;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+}
+.button3 {
+  background-image: url("menubutton2.png");
+  background-size: cover;
+  background-color: Transparent;
+  border: none;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+}
+.button4 {
+  background-image: url("menubutton2.png");
+  background-size: cover;
+  background-color: Transparent;
+  border: none;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+}
+.button5 {
+  background-image: url("menubutton2.png");
+  background-size: cover;
+  background-color: Transparent;
+  border: none;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+}
+.button6 {
+  background-image: url("menubutton2.png");
+  background-size: cover;
+  background-color: Transparent;
+  border: none;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 12px;
+}
